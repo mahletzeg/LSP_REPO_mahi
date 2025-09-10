@@ -1,0 +1,11 @@
+ProductID,Name,Price,Category,PriceRange
+101,Smartphone,499.99,Electronics,
+102,Laptop,1200,Electronics,
+103,Blender,49.99,Home Appliances,
+104,Headphones,200,Electronics,
+105,T-Shirt,19.99,Clothing,
+106,Smartwatch,150,Electronics,
+107,Refrigerator,799.99,Home Appliances,
+108,Microwave,99.99,Home Appliances,
+109,Camera,450,Electronics,
+110,Desk Lamp,25.99,Home Appliances,
