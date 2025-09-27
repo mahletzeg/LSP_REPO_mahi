@@ -1,11 +1,11 @@
 ProductID,Name,Price,Category,PriceRange
 101,SMARTPHONE,449.99,Electronics,High
-102,LAPTOP,1080.0,Premium Electronics,Premium
+102,LAPTOP,1080.00,Premium Electronics,Premium
 103,BLENDER,49.99,Home Appliances,Medium
-104,HEADPHONES,180.0,Electronics,High
+104,HEADPHONES,180.00,Electronics,High
 105,T-SHIRT,19.99,Clothing,Medium
-106,SMARTWATCH,135.0,Electronics,High
+106,SMARTWATCH,135.00,Electronics,High
 107,REFRIGERATOR,799.99,Home Appliances,Premium
 108,MICROWAVE,99.99,Home Appliances,Medium
-109,CAMERA,405.0,Electronics,High
+109,CAMERA,405.00,Electronics,High
 110,DESK LAMP,25.99,Home Appliances,Medium

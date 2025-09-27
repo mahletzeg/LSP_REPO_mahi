@@ -1,7 +1,8 @@
 {
     "java.project.sourcePaths": [
         "src/org/howard/edu/lsp/assignment1",
-        "src/org/howard/edu/lsp/assignment2"
+        "src/org/howard/edu/lsp/assignment2",
+        "src/org/howard/edu/lsp/assignment3"
     ],
     "java.project.outputPath": "bin",
     "java.project.referencedLibraries": []
