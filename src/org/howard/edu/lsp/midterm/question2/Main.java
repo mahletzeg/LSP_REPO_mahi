@@ -13,13 +13,4 @@ public class Main {
             System.out.println("Error: " + e.getMessage());
         }
     }
-
-    /*
-     * Overloading is a better design choice because it lets us use one method name,
-     * "area",
-     * for different shapes by changing the parameters. This makes the code cleaner
-     * and easier
-     * to read, instead of having many separate method names like circleArea or
-     * rectangleArea.
-     */
 }
